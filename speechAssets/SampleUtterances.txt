@@ -1,0 +1,14 @@
+GetNewFactIntent a quote
+GetNewFactIntent a quote of the day
+GetNewFactIntent tell me a quote
+GetNewFactIntent tell me a quote of the day
+GetNewFactIntent give me a quote
+GetNewFactIntent give me a quote of the day
+GetNewFactIntent tell me daily quote
+GetNewFactIntent tell me a quote trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some quote information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+
+AMAZON.HelpIntent what are you talking about
